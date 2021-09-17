@@ -1,0 +1,148 @@
+<html>
+<head>
+<title> Example</title>
+<body>
+Hi First Example
+</body>
+</html>
+
+
+<html>
+<head>
+	<title> Example</title>
+	<base href="www.google.com">
+</head>
+<body>
+	Hi First Example
+	<b> Hi First Example</b><br/>
+	<i> Hi First Example</i><br/>
+	<u> Hi First Example</u><br/>
+	<s> Hi First Example</s><br/>
+	Hi<sub>First</sub>Example<br/>
+</body>
+</html>
+
+
+
+<html>
+<head>
+	<title> Example</title>
+	<base href="www.google.com">
+</head>
+
+
+<body>
+	Hi First Example
+	<b> Hi First Example</b><br/>
+	<i> Hi First Example</i><br/>
+	<u> Hi First Example</u><br/>
+	<s> Hi First Example</s><br/>
+	Hi<sub>First</sub>Example<br/>
+
+	<h1> Heading1 </h1>
+	<h2> Heading2 </h2>
+	<h3> Heading2 </h3>
+	
+	<h1><i><b> Paragragh Defination</i></b></h1>
+
+	<p> A <b>paragraph</b> is a self-contained unit of <i>discourse in writing</i> dealing with a particular point or idea. A paragraph consists of one or more sentences. Though not required by the syntax of any language, paragraphs are usually an expected part of formal writing, used to organize longer prose.
+</p>
+</body>
+</html>
+
+
+
+<html>
+<head>
+	<title> Example</title>
+</head>
+
+
+<body>
+	<div>
+		<ul>
+			<li><a href="index.html">Home</a>
+			</li>
+			<li><a href="about.html">about</a>
+			</li>
+			<li><a href="contact.html">contact</a>
+			</li>
+		</ul>
+	</div>
+
+</body>
+</html>
+
+
+<html>
+<head>
+	<title>table</title>
+</head>
+<body>
+	<table border="2" style="width:35%;">
+		<tr>
+			<th>Employee Name</th>
+			<th>Salary</th>
+		</tr>
+		<tr>
+			<th> <font color="blue"> HR </font></th>
+		</tr>
+		<tr>
+			<td> Sandeep</td>
+			<td> 55000</td>
+		</tr>
+		<tr>
+			<td> Sonia</td>
+			<td> 30000</td>
+		</tr>
+		<tr>
+			<th> <font color="blue"> Sales </font> </th>
+		</tr>
+		<tr>
+			<td> Raju</td>
+			<td> 43000</td>
+		</tr>
+		<tr>
+			<td> Ajay</td>
+			<td> 30000</td>
+		</tr>
+</table>
+
+</body>
+</html>
+
+
+<html>
+<head>
+	<title>table</title>
+</head>
+<body>
+	<table border="2" style="width:35%;">
+		<tr>
+			<th>Department</th>
+			<th>Employee Name</th>
+			<th>Salary</th>
+		</tr>
+		<tr>
+			<td rowspan="2"> <font color="blue"> HR </font></td>
+			<td> Sandeep</td>
+			<td> 55000</td>
+		</tr>
+		<tr>
+			<td> Sonia</td>
+			<td> 30000</td>
+		</tr>
+	
+		<tr>
+			<td rowspan="2"> <font color="blue"> Sales </font></td>
+			<td> Raju</td>
+			<td> 43000</td>
+		</tr>
+		<tr>
+			<td> Ajay</td>
+			<td> 30000</td>
+		</tr>
+</table>
+
+</body>
+</html>
